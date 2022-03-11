@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Comparable {
+public class Comparable  {
+    
 }
